@@ -1,0 +1,23 @@
+# Ignore all extensionless files (compiled C/C++ executables)
+*
+!*/
+!*.*
+
+# Re-include configuration / markdown files
+!.gitignore
+!README.md
+!LICENSE
+
+# Build artifacts and compiler outputs
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
+
+# OS and editor files
+.DS_Store
+.DS_Store?
+._*
+.vscode/
+.idea/

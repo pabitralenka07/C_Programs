@@ -1,0 +1,14 @@
+Do solve these String programmes in c
+
+Poojarini sahu
+
+
+1. Write a C program to find the length of a string without
+using strlen().
+2. How do you compare two strings in C?
+3. Write a C program to reverse a string.
+4. Write a program to count the number of vowels in a string.
+5. Write a program to concatenate (join) two strings withoutusing strcat().
+6. Write a program to check whether a string is a palindrome or not.
+7. Reverse a String using Stack in C .
+
